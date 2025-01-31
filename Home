@@ -1,0 +1,92 @@
+<!-- School Name -->
+<h1 style="color: #1e3a8a; font-size: 2.5rem; font-weight: bold; text-align: center;">
+    🎉 Nai Subha Kids Paradise School 🎉
+</h1>
+
+<!-- Tagline -->
+<p style="color: #374151; font-size: 1.3rem; text-align: center; font-weight: bold;">
+    School with the best student care and educational services.
+</p>
+
+<hr style="border: 2px solid #1e3a8a; width: 60%; margin: 20px auto;"/>
+
+<!-- Main Image -->
+<p style="text-align: center;">
+    <img src="https://naisubhaedu.wordpress.com/wp-content/uploads/2025/01/0507ba2b-ec24-4193-9423-e16f0433d0aa-1.jpg?w=1024" 
+        alt="Children in Classroom" style="max-width: 100%; border-radius: 10px;">
+</p>
+
+<!-- Section Header -->
+<h3 style="color: #1e3a8a; font-size: 2rem; text-align: center;">
+    A Path to Children’s Bright Future 🚀
+</h3>
+
+<hr style="border: 2px solid #1e3a8a; width: 60%; margin: 20px auto;"/>
+
+<!-- Second Image -->
+<p style="text-align: center;">
+    <img src="https://naisubhaedu.wordpress.com/wp-content/uploads/2025/01/ea328c1b-734d-4779-87c2-312e538fbc85-1.jpg?w=556" 
+        alt="Kids Learning" style="max-width: 100%; border-radius: 10px;">
+</p>
+
+<!-- Contact Section -->
+<h3 style="color: #1e3a8a; font-size: 2rem; text-align: center;">📞 Reach Us At</h3>
+
+<!-- Buttons in Full-Width Row -->
+<p style="text-align: center;">
+    <a href="https://www.instagram.com/nai_subha/" 
+       style="background: #e4405f; color: #fff; padding: 12px 25px; border-radius: 50px; text-decoration: none; 
+              font-weight: bold; display: inline-block; margin: 10px 0; max-width: 350px; width: 100%; text-align: center;">
+       📸 Instagram
+    </a>
+
+    <a href="https://m.facebook.com/NAISUBHA/" 
+       style="background: #3b5998; color: #fff; padding: 12px 25px; border-radius: 50px; text-decoration: none; 
+              font-weight: bold; display: inline-block; margin: 10px 0; max-width: 350px; width: 100%; text-align: center;">
+       📘 Facebook
+    </a>
+
+    <a href="https://wa.link/u4xt4k" 
+       style="background: #25D366; color: #fff; padding: 12px 25px; border-radius: 50px; text-decoration: none; 
+              font-weight: bold; display: inline-block; margin: 10px 0; max-width: 350px; width: 100%; text-align: center;">
+       💬 WhatsApp
+    </a>
+
+    <a href="https://g.co/kgs/uVgU3W3" 
+       style="background: #ff9800; color: #fff; padding: 12px 25px; border-radius: 50px; text-decoration: none; 
+              font-weight: bold; display: inline-block; margin: 10px 0; max-width: 350px; width: 100%; text-align: center;">
+       📍 Location
+    </a>
+</p>
+
+<!-- About Us Section without duplicate title -->
+<h2 style="color: #1e3a8a; text-align: center;">📚 About Us</h2>
+<p style="font-size: 1.1rem; color: #555; text-align: center;">
+    Welcome to <strong>Nai Subha Kids Paradise School</strong>, where young minds embark on a journey of learning, creativity, and growth! 
+    Established in 2011, we provide a nurturing and engaging environment that lays a strong foundation for lifelong learning.
+</p>
+
+<!-- Mission & Vision -->
+<div style="background: #e0f7fa; padding: 15px; border-radius: 10px; margin: 20px auto; width: 80%;">
+    <h3 style="color: #1e3a8a; text-align: center;">🚀 Our Mission</h3>
+    <p style="text-align: center;">To foster a love for learning by providing a holistic and joyful educational experience.</p>
+
+    <h3 style="color: #1e3a8a; text-align: center;">🌎 Our Vision</h3>
+    <p style="text-align: center;">To be a leading early education institution nurturing confident and compassionate learners.</p>
+</div>
+
+<!-- Why Choose Us -->
+<div style="background: #f3f4f6; padding: 15px; border-radius: 10px; margin: 20px auto; width: 80%;">
+    <h3 style="color: #d97706; text-align: center;">🌟 Why Choose Us?</h3>
+    <ul style="list-style: none; padding: 0; font-size: 1.1rem; color: #333; text-align: center;">
+        <li>✅ Experienced and caring teachers</li>
+        <li>✅ Interactive and play-based learning approach</li>
+        <li>✅ Safe and child-friendly environment</li>
+        <li>✅ Strong foundation in academics and life skills</li>
+        <li>✅ Engaging extracurricular activities</li>
+    </ul>
+</div>
+
+<p style="font-weight: bold; font-size: 1.2rem; text-align: center;">
+    ✨ Join us at Nai Subha Kids Paradise School—where every new day is a step toward a brighter future! ✨
+</p>
